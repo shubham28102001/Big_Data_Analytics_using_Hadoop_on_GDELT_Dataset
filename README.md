@@ -1,4 +1,4 @@
-# Big Data Analytics with Hadoop: Worldwide News Database GDELT
+# Big Data Analytics using Hadoop on GDELT Global News Dataset 
 This repository performs Big Data Analytics using Hadoop on [Global Database of Events, Language and Tone](https://www.gdeltproject.org/) (GDELT) News Datset. This data is free source and consists of daily datasets in CSV format.
 
 <table class="tg">
